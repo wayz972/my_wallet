@@ -1,0 +1,21 @@
+.txn-list {
+    background-color: #fff;
+    padding: 12px 10px;
+    color: #777;
+    font-size: 14px;
+    margin: 7px 0;
+}
+
+.txn-history {
+    text-align: left;
+}
+
+.debit-amount {
+    color: red;
+    float: right;
+}
+
+.debit-positif {
+    color: green;
+    float: right;
+}
